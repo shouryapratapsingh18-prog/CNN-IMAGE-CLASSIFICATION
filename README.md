@@ -25,7 +25,7 @@ CNN-IMAGE-CLASSIFICATION/
 │   └── predict.py        # Command-line single image inference script
 ├── models/               # Saved PyTorch model weights (.pth)
 ├── outputs/              # Evaluation plots and metrics
-├── demo.png              # Web App Interface Screenshot
+├── image.png              # Web App Interface Screenshot
 ├── requirements.txt      # Project python dependencies
 └── README.md             # Project documentation
 
