@@ -1,0 +1,14 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Cache & Build files
+__pycache__/
+*.py[cod]
+.gradio/
+.DS_Store
+
+# Large Datasets
+data/
