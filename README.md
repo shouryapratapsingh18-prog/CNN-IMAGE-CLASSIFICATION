@@ -45,4 +45,6 @@ python src/train.py
 Bash
 python src/evaluate.py
 
+## 🖥️ Web App Interface
+![Gradio Web App Demo](image.png)
 
