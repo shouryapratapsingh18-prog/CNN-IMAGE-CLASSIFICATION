@@ -29,4 +29,20 @@ CNN-IMAGE-CLASSIFICATION/
 ├── requirements.txt      # Project python dependencies
 └── README.md             # Project documentation
 
+🚀 Getting Started
+1. Install Dependencies
+Bash
+pip install -r requirements.txt
+2. Run the Web Application
+Bash
+python app/app.py
+Open http://127.0.0.1:7860/ in your browser to test the interactive UI.
+
+3. Train the Model (Optional)
+Bash
+python src/train.py
+4. Evaluate Model Performance
+Bash
+python src/evaluate.py
+
 
